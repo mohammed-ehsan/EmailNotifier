@@ -7,6 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <TabControl>
+            <TabItem Header="الرئيسية">
+                
+            </TabItem>
+            <TabItem Header="ادارة الحساب">
+                
+                
+            </TabItem>
+            <TabItem Header="جهات الاتصال">
+                
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>
